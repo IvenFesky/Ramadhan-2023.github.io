@@ -26,7 +26,8 @@ body {
 
 .profile-img{
    flex: 1;
-   margin-right: 2rem;
+   margin-right: 3rem;
+   margin-left: 3rem;
 }
 
 .about .container{
