@@ -27,7 +27,6 @@ body {
 .profile-img{
    flex: 1;
    margin-right: 3rem;
-   margin-left: 3rem;
 }
 
 .about .container{
@@ -60,6 +59,7 @@ body {
    font-weight: 300;
    color: #fff;
    margin-bottom: 5rem;
+   margin-right: 3rem;
 }
 
 .tulisan p1{
@@ -67,6 +67,7 @@ body {
    font-weight: 300;
    color: #fff;
    margin-bottom: 5rem;
+   margin-right: 3rem;
 }
 
 .kotakutama .bedug {
